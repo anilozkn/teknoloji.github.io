@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+body{
+    background-color: #f8f8f8;
+   background-size: cover;
+   background-repeat: no-repeat;
+  }
+
+
+
+header{
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    border-bottom: 3px solid white;
+}
+    
+#menu_bar{
+    display: none;
+}
+    
+.menu{
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+    padding: 30px 0;
+}
+    
+.menu_link{
+    list-style: none;
+    display: flex;
+}
+    
+.menu_link li a{
+    font-weight: bold;
+    position: relative;
+    margin-left: 25px;
+    color: white;
+    padding: 5px 2px;
+    border-radius: 7px;
+    transition: all.5s ease-in-out
+} 
+.menu_link li a:hover{
+    background: #105251;
+}
+
+h2 a {
+    color:aliceblue
+}
+footer {
+
+
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+  }
+
+  footer p{
+    color: white;
+   }
+   .fotografim3{
+
+    float: right;
+    padding-right: 40px;
+  
+    padding-bottom: 1000px;
+    padding: 140px;
+    
+            }
+
+
+            .yaziyeri3 {
+
+                padding: 170px;
+                max-width: 800px;
+                font-size: 18px;
+                padding-right: 40px;
+                padding-left: 100px;
+             }
+
+             .fotografim4{
+
+                float: right;
+                padding-right: 40px;
+              
+                padding-bottom: 1000px;
+                padding: 100px;
+                
+                        }
+            
+            
+                        .yaziyeri4 {
+            
+                            padding: 220px;
+                            max-width: 800px;
+                            font-size: 18px;
+                            padding-right: 40px;
+                            padding-left: 80px;
+                         }
+
+                         .fotografim5{
+
+                            float: right;
+                            padding-right: 40px;
+                          
+                            padding-bottom: 1000px;
+                            padding: 100px;
+                            
+                                    }
+                        
+                        
+                                    .yaziyeri5 {
+                        
+                                        padding: 90px;
+                                        max-width: 800px;
+                                        font-size: 18px;
+                                        padding-right: 40px;
+                                        padding-left: 80px;
+                                     }

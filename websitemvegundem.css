@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+body{
+    background-color: #f8f8f8;
+   background-size: cover;
+   background-repeat: no-repeat;
+  }
+
+
+
+header{
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    border-bottom: 3px solid white;
+}
+    
+#menu_bar{
+    display: none;
+}
+    
+.menu{
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+    padding: 30px 0;
+}
+    
+.menu_link{
+    list-style: none;
+    display: flex;
+}
+    
+.menu_link li a{
+    font-weight: bold;
+    position: relative;
+    margin-left: 25px;
+    color: white;
+    padding: 5px 2px;
+    border-radius: 7px;
+    transition: all.5s ease-in-out
+} 
+.menu_link li a:hover{
+    background: #105251;
+}
+
+h2 a {
+    color:aliceblue
+}
+
+
+
+
+
+
+footer {
+
+
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+  }
+
+  footer p{
+    color: white;
+   }
+
+
+   .yazigenel {
+
+margin-top: 30px;
+justify-content: center;
+text-align: left;
+float: left;
+padding: 80px;
+max-width: 1000x;
+   }
+
+   .yazigenel1{
+
+    margin-top: 10px;
+    justify-content: center;
+    text-align: left;
+    float: left;
+    padding: 70px;
+    max-width: 1000px;
+       }
+
+       .yazigenel2{
+
+        margin-top: 10px;
+        justify-content: center;
+        text-align: left;
+        float: left;
+        padding: 70px;
+        max-width: 1000px;
+           }
+
+           .yazigenel3{
+
+            margin-top: 10px;
+            justify-content: center;
+            text-align: left;
+            float: left;
+            padding: 70px;
+            max-width: 1000px;
+               }
+    
+               .yazigenel4{
+
+                margin-top: 10px;
+                justify-content: center;
+                text-align: left;
+                float: left;
+                padding: 70px;
+                max-width: 1000px;
+                   }
+                   .yazigenel5{
+
+                    margin-top: 10px;
+                    justify-content: center;
+                    text-align: left;
+                    float: left;
+                    padding: 70px;
+                    max-width: 1000px;
+                       }
+   
+.yazimiz1 {
+
+padding: 20px;
+max-width: 800px;
+font-size: 18px;
+padding-right: 40px;
+padding-left: 80px;
+
+
+}
+
+.yazimiz2 {
+
+    padding: 20px;
+    max-width: 800px;
+    font-size: 18px;
+    padding-right: 40px;
+    padding-left: 80px;
+    }
+
+    .yazimiz3 {
+
+        padding: 20px;
+        max-width: 800px;
+        font-size: 18px;
+        padding-right: 40px;
+        padding-left: 80px;
+        }
+
+        .ilkfoto {
+
+float: right;
+padding-right: 40px;
+
+
+
+
+        }
+
+
+        .ikincifoto {
+
+            float: right;
+            padding-right: 40px;
+          
+            padding-bottom: 100px;
+            
+            
+                    }
+
+
+                    .yazimiz4 {
+
+                        padding: 20px;
+                        max-width: 800px;
+                        font-size: 18px;
+                        padding-right: 40px;
+                        padding-left: 80px;
+                        
+                        
+                        }
+                        
+                        .yazimiz5 {
+                        
+                            padding: 20px;
+                            max-width: 800px;
+                            font-size: 18px;
+                            padding-right: 40px;
+                            padding-left: 80px;
+                            }
+                        
+                            .yazimiz6 {
+                        
+                                padding: 20px;
+                                max-width: 800px;
+                                font-size: 18px;
+                                padding-right: 40px;
+                                padding-left: 80px;
+                                }
